@@ -2,7 +2,9 @@
 Example of using PDFKit
 -----------------------
 
-<img src=""></img>
+<img src="Images/IMG_0030.PNG"></img>
+<img src="Images/IMG_0031.PNG"></img>
+<img src="Images/IMG_0032.PNG"></img>
 
 ## Requirements
 iOS 11.0 and Xcode 9
